@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AB Testing\n"
+"POT-Creation-Date: 2016-06-03 16:03+0100\n"
+"PO-Revision-Date: 2016-06-03 16:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: Autovisie <develop@autovisie.nl>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-av-ab-testing-admin.php:99
+#: ../admin/class-av-ab-testing-admin.php:100
+msgid "AB Testing Settings"
+msgstr "AB Testing Settings"
+
+#: ../admin/class-av-ab-testing-admin.php:127
+msgid "General"
+msgstr "General"
+
+#: ../admin/class-av-ab-testing-admin.php:137
+msgid "Activated"
+msgstr "Activated"
+
+#: ../admin/class-av-ab-testing-admin.php:148
+msgid "Use JS for the titles?"
+msgstr "Use JS for the titles?"
+
+#: ../admin/class-av-ab-testing-admin.php:159
+msgid "Hide titles until JS is done?"
+msgstr "Hide titles until JS is done?"
+
+#: ../admin/class-av-ab-testing-admin.php:170
+msgid "Amount of views"
+msgstr "Amount of views"
+
+#: ../admin/class-av-ab-testing-admin.php:182
+#, php-format
+msgid "Percentage (without the % sign) on which we choose a title"
+msgstr "Percentage (without the % sign) on which we choose a title"
+
+#: ../admin/class-av-ab-testing-admin.php:194
+msgid "Posts using AB testing"
+msgstr "Posts using AB testing"
+
+#: ../admin/class-av-ab-testing-admin.php:218
+msgid "Settings for AB Testing"
+msgstr "Settings for AB Testing"
+
+#: ../admin/class-av-ab-testing-admin.php:316
+msgid "AB Testing Titles"
+msgstr "AB Testing Titles"
+
+#: ../admin/class-av-ab-testing-admin.php:317
+msgid "AB Testing Status"
+msgstr "AB Testing Status"
+
+#: ../admin/class-av-ab-testing-admin.php:343
+msgid "Title B"
+msgstr "Title B"
+
+#: ../admin/class-av-ab-testing-admin.php:366
+#, php-format
+msgid "<b>Title A:</b> %s%% (%s views)"
+msgstr "<b>Title A:</b> %s%% (%s views)"
+
+#: ../admin/class-av-ab-testing-admin.php:366
+#: ../admin/class-av-ab-testing-admin.php:367
+msgid "- Chosen Title"
+msgstr "- Chosen Title"
+
+#: ../admin/class-av-ab-testing-admin.php:367
+#, php-format
+msgid "<b>Title B:</b> %s%% (%s views)"
+msgstr "<b>Title B:</b> %s%% (%s views)"
+
+#: ../admin/class-av-ab-testing-admin.php:368
+msgid "Reset AB counters"
+msgstr "Reset AB counters"
+
+#: ../admin/class-av-ab-testing-admin.php:453
+#, php-format
+msgid "AB Testing for post %s (%s) inactive."
+msgstr "AB Testing for post %s (%s) inactive."
+
+#: ../admin/class-av-ab-testing-admin.php:459
+#, php-format
+msgid "AB Testing for post %s (id: %s) active."
+msgstr "AB Testing for post %s (id: %s) active."
+
+#: ../public/class-av-ab-testing-public.php:357
+#, php-format
+msgid "Title for post %s (id: %s) chosen: %s (%s)"
+msgstr "Title for post %s (id: %s) chosen: %s (%s)"
